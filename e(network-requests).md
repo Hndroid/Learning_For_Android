@@ -4,12 +4,6 @@ Okhttp2.x处理了很多网络疑难杂症：会从很多常用的连接问题�
 
 使用步骤：
 
-1. 配置gradle
-2. 创建okHttpClient\(\)对象
-3. 以创建者模式创建Request
-4. okHttpClient\(\)对象开启newCall\(request）
-5. call添加到队列
-
 ```java
         //[1.0]创建okhttpClient对象
         OkHttpClient okHttpClient = new OkHttpClient();
