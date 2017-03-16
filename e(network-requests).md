@@ -4,6 +4,8 @@ Okhttp2.x处理了很多网络疑难杂症：会从很多常用的连接问题�
 
 使用步骤：
 
+* 添加依赖
+
 ```java
         //[1.0]创建okhttpClient对象
         OkHttpClient okHttpClient = new OkHttpClient();
