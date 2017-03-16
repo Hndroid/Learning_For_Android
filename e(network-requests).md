@@ -11,7 +11,7 @@ Okhttp2.x处理了很多网络疑难杂症：会从很多常用的连接问题�
 5. call添加到队列
 
 ```java
-//[1.0]创建okhttpClient对象
+        //[1.0]创建okhttpClient对象
         OkHttpClient okHttpClient = new OkHttpClient();
         //[2.0]创建Request.Builder()对象
         Request request = new Request.Builder()
