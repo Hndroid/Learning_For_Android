@@ -6,4 +6,6 @@
 * [C\(LIstView\)](c\(listview\).md)
 * [D\(Volley\)](d\(volley\).md)
 * [E\(Network requests\)](e\(network-requests\).md)
+* [F\(HardSoft\)](f\(hardsoft\).md)
+  * [A\(BlueTooth\)](f\(hardsoft\)/a\(bluetooth\).md)
 
