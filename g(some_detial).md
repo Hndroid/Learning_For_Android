@@ -132,5 +132,5 @@ com.android.launcher.permission.UNINSTALL_SHORTCUT
 
 ##  {#相关开源项目}
 
-
+来源：[https://www.aswifter.com/2015/11/04/android-6-permission/](https://www.aswifter.com/2015/11/04/android-6-permission/)
 
