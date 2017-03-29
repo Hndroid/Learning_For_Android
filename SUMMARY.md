@@ -8,4 +8,5 @@
 * [E\(Network requests\)](e\(network-requests\).md)
 * [F\(HardSoft\)](f\(hardsoft\).md)
   * [A\(BlueTooth\)](f\(hardsoft\)/a\(bluetooth\).md)
+* [G\(Some\_Detial\)](g\(some_detial\).md)
 
